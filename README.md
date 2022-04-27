@@ -1,5 +1,5 @@
 # k-means-clustering
-Implementing K-Means Clustering to images
+Implementing K-Means Clustering for Image Segmentation
 <br>
 Source image:<br>
 ![Biomedical](https://github.com/alamsyah10/k-means-clustering/blob/main/biomedical.jpg)
